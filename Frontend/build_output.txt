@@ -1,0 +1,134 @@
+﻿[33mÔØ»[39m Building...
+[32mÔ£ö[39m Building...
+[1mInitial chunk files[22m  [2m | [22m[1mNames[22m             [2m | [22m [1mRaw size[22m[2m | [22m[1mEstimated transfer size[22m
+[32mchunk-DVNLTHV7.js[39m    [2m | [22m[2m-[22m                 [2m | [22m[36m216.02 kB[39m[2m | [22m               [36m43.87 kB[39m
+[32mchunk-F37GRCWN.js[39m    [2m | [22m[2m-[22m                 [2m | [22m[36m176.54 kB[39m[2m | [22m               [36m50.46 kB[39m
+[32mmain-YAE2TAV2.js[39m     [2m | [22m[2mmain[22m              [2m | [22m [36m73.66 kB[39m[2m | [22m               [36m12.98 kB[39m
+[32mstyles-ND5KOFKN.css[39m  [2m | [22m[2mstyles[22m            [2m | [22m [36m59.15 kB[39m[2m | [22m                [36m6.75 kB[39m
+[32mchunk-33XYO5DM.js[39m    [2m | [22m[2m-[22m                 [2m | [22m [36m35.41 kB[39m[2m | [22m                [36m7.72 kB[39m
+[32mpolyfills-FFHMD2TL.js[39m[2m | [22m[2mpolyfills[22m         [2m | [22m [36m34.52 kB[39m[2m | [22m               [36m11.28 kB[39m
+[32mchunk-PI633VBQ.js[39m    [2m | [22m[2m-[22m                 [2m | [22m  [36m8.16 kB[39m[2m | [22m                [36m2.21 kB[39m
+[32mchunk-Q64FFBLU.js[39m    [2m | [22m[2m-[22m                 [2m | [22m  [36m4.20 kB[39m[2m | [22m                [36m1.05 kB[39m
+
+[1m [22m                    [2m | [22m[1mInitial total[22m     [2m | [22m[1m[93m607.66 kB[39m[22m[2m | [22m              [1m136.32 kB[22m
+
+[1mLazy chunk files[22m     [2m | [22m[1mNames[22m             [2m | [22m [1mRaw size[22m[2m | [22m[1mEstimated transfer size[22m
+[32mchunk-XX7DGIEF.js[39m    [2m | [22m[2mregister-component[22m[2m | [22m [36m75.37 kB[39m[2m | [22m               [36m17.74 kB[39m
+[32mchunk-GB3555IQ.js[39m    [2m | [22m[2m-[22m                 [2m | [22m [36m70.46 kB[39m[2m | [22m               [36m12.26 kB[39m
+[32mchunk-5GTYVOYE.js[39m    [2m | [22m[2mbrowser[22m           [2m | [22m [36m63.60 kB[39m[2m | [22m               [36m16.85 kB[39m
+[32mchunk-7GG23THV.js[39m    [2m | [22m[2mhome-component[22m    [2m | [22m [36m17.22 kB[39m[2m | [22m                [36m4.45 kB[39m
+[32mchunk-AGIJB2H7.js[39m    [2m | [22m[2mlogin-component[22m   [2m | [22m  [36m7.88 kB[39m[2m | [22m                [36m2.40 kB[39m
+[32mchunk-I37HCKJJ.js[39m    [2m | [22m[2m-[22m                 [2m | [22m  [36m5.04 kB[39m[2m | [22m                [36m1.23 kB[39m
+
+Application bundle generation failed. [3.440 seconds]
+
+node.exe : 
+[1m[33m[33mÔû▓ [4
+3;33m[[43;30mWARNING
+[43;33m][0m 
+[1mbundle initial 
+exceeded maximum 
+budget. Budget 
+512.00 kB was not 
+met by 95.66 kB with 
+a total of 607.66 
+kB.[0m
+Au caractère Ligne:1 
+: 1
++ & "C:\Program Files
+\nodejs/node.exe" "C:
+\Users\LENOVO\AppData
+\Roaming ...
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: ([1m[3   
+ 3m[33mÔ... 607.    
+66 kB.[0m:Strin    
+g) [], RemoteExc    
+eption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+
+
+[33mÔû▓ [43;33m[[4
+3;30mWARNING[43;33m]
+[0m [1mangular:styl
+es/component:scss;593
+f5019b232b4a5905438e1
+fd1b0d099da8992793af7
+fda6004f747e7192cc3;C
+:/Users/LENOVO/.gemin
+i/antigravity/scratch
+/alzheimer-monitoring
+/src/app/pages/home/h
+ome.component.ts 
+exceeded maximum 
+budget. Budget 2.05 
+kB was not met by 
+4.51 kB with a total 
+of 6.56 kB.[0m
+
+
+[33mÔû▓ [43;33m[[4
+3;30mWARNING[43;33m]
+[0m [1mangular:styl
+es/component:scss;660
+0f64ef6d5ff624f83ab3c
+fbe28ae652b11eb71ce2d
+5b2ff02b39a09bde042;C
+:/Users/LENOVO/.gemin
+i/antigravity/scratch
+/alzheimer-monitoring
+/src/app/pages/login/
+login.component.ts 
+exceeded maximum 
+budget. Budget 2.05 
+kB was not met by 
+723 bytes with a 
+total of 2.77 kB.[0m
+
+
+[33mÔû▓ [43;33m[[4
+3;30mWARNING[43;33m]
+[0m [1mangular:styl
+es/component:scss;787
+9f71b7a12ff075c0dc521
+ac023f71080e6a264ddb3
+695bdfe2d47d6262c26;C
+:/Users/LENOVO/.gemin
+i/antigravity/scratch
+/alzheimer-monitoring
+/src/app/pages/regist
+er/register.component
+.ts exceeded maximum 
+budget. Budget 2.05 
+kB was not met by 
+219 bytes with a 
+total of 2.27 kB.[0m
+
+[39m[22m
+[1m[31m[31mX [41;
+31m[[41;97mERROR[41
+;31m][0m [1mangular
+:styles/component:scs
+s;593f5019b232b4a5905
+438e1fd1b0d099da89927
+93af7fda6004f747e7192
+cc3;C:/Users/LENOVO/.
+gemini/antigravity/sc
+ratch/alzheimer-monit
+oring/src/app/pages/h
+ome/home.component.ts
+ exceeded maximum 
+budget. Budget 4.10 
+kB was not met by 
+2.46 kB with a total 
+of 6.56 kB.[0m
+
+[39m[22m
